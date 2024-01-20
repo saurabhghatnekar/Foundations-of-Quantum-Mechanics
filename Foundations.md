@@ -3,7 +3,7 @@
 # String | *REQUIRED*
 # Ex: Top 4 React UI Libraries for 2023
 title: Example title here
- 
+
 # Post Slug
 # What is slug? https://www.semrush.com/blog/what-is-a-url-slug
 # String | *REQUIRED*
@@ -18,7 +18,7 @@ title: Example title here
 # - If you change only the path of the post, the post will be will be updated with new path 
 #   and any other changes along with it if any.
 slug: example-slug
- 
+
 # Tags
 # String (comma-separated tag slugs) | *REQUIRED*
 # Ex: reactjs, css, python, nodejs
@@ -26,7 +26,7 @@ slug: example-slug
 # - You can find tags information from here https://github.com/Hashnode/support/blob/main/misc/tags.json
 # You can also update a post to edit this later.
 tags: reactjs, css, python, nodejs
- 
+
 # Publication Domain (hashnode.dev subdomain or your custom domain)
 # String | *REQUIRED*
 # Ex: townhall.hashnode.com
@@ -35,12 +35,12 @@ tags: reactjs, css, python, nodejs
 #   This should be a valid domain name only.
 # - You should be an ADMIN of the publication to publish.
 domain: example.hashnode.dev
- 
+
 # Subtitle of the post
 # String | Optional
 # Ex: A curated list of the best React UI libraries for 2023
 subtitle: 
- 
+
 # Cover Image URL of the post
 # String | Optional
 # Note: You must upload the image to Hashnode's CDN, before you can use it here.
@@ -48,7 +48,7 @@ subtitle:
 # - To upload, Login to Hashnode and go to https://hashnode.com/uploader
 #   Use the URL that is generated after the upload.
 cover: 
- 
+
 # Should the post be ignored? When true it will not be picked up by Hashnode.
 # Boolean | Optional
 # Default value: false
@@ -56,7 +56,7 @@ cover:
 # - It's useful when you want to keep the post in your repo but don't
 #   want it to be picked up by Hashnode.
 ignorePost: 
- 
+
 # Publish on behalf of a team publication member
 # String | Optional | *WORKS WITH TEAM PUBLICATION ONLY*
 # Ex: sandeep
@@ -67,7 +67,7 @@ ignorePost:
 # - Fails if the user is not a member of the team publication or 
 #   if the publication is not a team publication
 publishAs: 
- 
+
 # Canonical URL of the post
 # String | Optional
 # What is a canonical URL? https://moz.com/learn/seo/canonicalization
@@ -77,8 +77,7 @@ publishAs:
 # - This is useful when you want to publish a post that is already
 #   published on another platform.
 canonical: 
- 
- 
+
 # Hide from Hashnode Community
 # Boolean | Optional
 # Default value: false // by default the post will be visible in the Hashnode's public feed.
@@ -89,7 +88,7 @@ canonical:
 #   only but hide it from the Hashnode's public feed.
 # - You can also update a post to enable/disable this later.
 hideFromHashnodeCommunity: 
- 
+
 # SEO Title
 # String | Optional
 # Ex: Top 4 React UI Libraries for 2023
@@ -97,7 +96,7 @@ hideFromHashnodeCommunity:
 #   of a post in Hashnode editor.
 # - You can also update a post to update this later.
 seoTitle: 
- 
+
 # SEO Description
 # String | Optional
 # Ex: A curated list of the best React UI libraries for 2023
@@ -105,7 +104,7 @@ seoTitle:
 #   draft settings of a post in Hashnode editor.
 # - You can also update a post to update this later.
 seoDescription: 
- 
+
 # Disable comments for a post
 # Boolean | Optional
 # Default value: false // by default the comments will be enabled for the post.
@@ -114,7 +113,7 @@ seoDescription:
 #   draft settings of a post in Hashnode editor.
 # - You can also update a post to enable/disable this later.
 disableComments: 
- 
+
 # Slug of the series that you want your post to be a part of
 # String | Optional
 # Ex: react-series
@@ -125,7 +124,7 @@ disableComments:
 # - You can find series information from the series section in your publication dashboard. 
 #   You can also edit the series information from there.
 seriesSlug: 
- 
+
 # Table of contents
 # Boolean | Optional
 # Default value: false // by default the table of contents will not be added to the post.
@@ -135,7 +134,7 @@ seriesSlug:
 # - If true, the table of contents will be added to the post.
 # - You can also update a post to enable/disable this later.
 enableToc: 
- 
+
 # Save post as draft
 # Boolean | Optional
 # Default value: false // by default the post will be published.
@@ -150,11 +149,10 @@ enableToc:
 #   flow as well as the slug rules mentioned since 
 #   beginning of this manual.
 saveAsDraft: 
- 
- 
+
 # Note:
 # Newsletter and Post scheduling is NOT supported as of now.
- 
+
 ---
 This is the body of the post. You can use Markdown here.
 ```
