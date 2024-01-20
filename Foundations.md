@@ -16,7 +16,7 @@ Imagine a light switch. It can be either on or off. It can be in either of the t
 You can have as many light switches as you want, and you can have as many possible states as you want. 
 By switching the light switches on and off, you can represent any number you want.
 
-![Light Switches to Binary](images/binary_nums.gif)
+![Light Switches to Binary](https://github.com/saurabhghatnekar/Foundations-of-Quantum-Mechanics/blob/main/images/binary_nums.gif?raw=true)
 
 We can represent the letter 'A' using the ASCII code. The ASCII code for 'A' is 65. The binary representation of 65 is 1000001. So, we can represent the letter 'A' using 7 bits.
 
