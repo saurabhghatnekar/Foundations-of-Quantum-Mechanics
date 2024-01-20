@@ -8,20 +8,20 @@ domain: quantumlearnings.ai
 saveAsDraft: true
 ---
 
-Let us start with a simple question: What is Quantum Computing?
+Let us start with a simple question: What is Computing? Or, how do we compute today?
 
-Quantum Computing is the study of how to use quantum mechanics to do computation.
-But what is quantum mechanics? And what does it have to do with computation?
+Today, we compute using classical computers. Your phone, laptop, desktop, and even the supercomputers are all classical computers. A classical computer performs operations on classical bits using logic gates. A classical bit is a two-state system that can be in either of the two states: 0 or 1. 
 
-# What is Mechanics?
-It is the branch of physics that tells you what will happen to a body when you apply a force to it. It is the study of motion and the forces that cause motion.
-Remember Newton's laws of motion? They are the foundation of classical mechanics.
-We can use Newton's laws to predict the motion of a ball thrown in the air, or the motion of a rocket in space. We can also use Newton's laws to predict the motion of planets in the solar system.
-But Newton's laws fail to predict the motion of very small particles like electrons, protons, neutrons, etc. This is where Quantum Mechanics comes into play.
+Imagine a light switch. It can be either on or off. It can be in either of the two states: 0 or 1. Now if you have two light switches, you can have four possible states: 00, 01, 10, 11. Similarly, if you have three light switches, you can have eight possible states: 000, 001, 010, 011, 100, 101, 110, 111.
+You can have as many light switches as you want, and you can have as many possible states as you want. 
+By switching the light switches on and off, you can represent any number you want.
 
-# What is Quantum Mechanics?
-Quantum Mechanics is the branch of physics that tells you what will happen to a particle when you apply a force to it. It is the study of motion and the forces that cause motion of very small particles like electrons, protons, neutrons, etc.
+We can represent the letter 'A' using the ASCII code. The ASCII code for 'A' is 65. The binary representation of 65 is 1000001. So, we can represent the letter 'A' using 7 bits.
 
+Similarly, we can represent any letter, number, or symbol using bits. We can represent any number using bits. We can represent any image using bits. We can represent any video using bits. We can represent any audio using bits. We can represent any text using bits. We can represent any information using bits.
 
-# What's the relation between Quantum Mechanics and Quantum Computing?
+A classical computer has billions of such switches (called transistors) in it. Today we run billions of operations on these switches every second. The AI algorithms that we run on these computers are also based on these switches.
 
+But, there is a limit to how much we can scale these switches. We are already reaching the limit of how small we can make these switches. 
+
+Also, there are problems that are too complex for these switches to solve. For example, if you want to find the factors of a large number, it will take a classical computer a very long time to find the factors. 
