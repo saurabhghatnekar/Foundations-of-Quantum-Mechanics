@@ -12,11 +12,14 @@ Let us start with a simple question: What is Computing? Or, how do we compute to
 
 Today, we compute using classical computers. Your phone, laptop, desktop, and even the supercomputers are all classical computers. A classical computer performs operations on classical bits using logic gates. A classical bit is a two-state system that can be in either of the two states: 0 or 1. 
 
+![Classical Computer](https://github.com/saurabhghatnekar/Foundations-of-Quantum-Mechanics/blob/main/images/classical_computer.png?raw=true)
+
 Imagine a light switch. It can be either on or off. It can be in either of the two states: 0 or 1. Now if you have two light switches, you can have four possible states: 00, 01, 10, 11. Similarly, if you have three light switches, you can have eight possible states: 000, 001, 010, 011, 100, 101, 110, 111.
 You can have as many light switches as you want, and you can have as many possible states as you want. 
 By switching the light switches on and off, you can represent any number you want.
 
 ![Light Switches to Binary](https://github.com/saurabhghatnekar/Foundations-of-Quantum-Mechanics/blob/main/images/binary_nums.gif?raw=true)
+credits: [cs50](https://cdn.cs50.net/2016/x/psets/0/pset0/bulbs.html)
 
 We can represent the letter 'A' using the ASCII code. The ASCII code for 'A' is 65. The binary representation of 65 is 1000001. So, we can represent the letter 'A' using 7 bits.
 
@@ -24,6 +27,11 @@ Similarly, we can represent any letter, number, or symbol using bits. We can rep
 
 A classical computer has billions of such switches (called transistors) in it. Today we run billions of operations on these switches every second. The AI algorithms that we run on these computers are also based on these switches.
 
-But, there is a limit to how much we can scale these switches. We are already reaching the limit of how small we can make these switches. 
+But, there is a limit to how much we can scale these switches. We are already reaching the limit of how small we can make these switches.
 
-Also, there are problems that are too complex for these switches to solve. For example, if you want to find the factors of a large number, it will take a classical computer a very long time to find the factors. 
+Also, there are problems that are too complex for these switches to solve. For example, if you want to find the factors of a large number, it will take a classical computer a very long time to find the factors.
+
+So, we need a new way to compute. We need a new way to represent information. We need a new way to solve complex problems. We need a new way to do AI.
+
+Quantum Computing is the answer to most these problems.
+
