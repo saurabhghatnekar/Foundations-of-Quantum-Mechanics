@@ -1,14 +1,27 @@
 ---
-title: Quantum Mechanics 101
-subtitle: A simple Introduction to Quantum Mechanics
-slug: post-from-github-as-source
-tags: reactjs, css, python, nodejs
+title: Quantum Computing 101
+subtitle: A simple Introduction to Quantum Computing
+slug: quantum-computing-101
+tags: quantum-mechanics, quantum-computing, quantum-information, quantum-ai, physics, quantum-physics, quantum-chemistry, quantum-biology, quantum-technology, quantum-communication, quantum-cryptography, quantum-teleportation, quantum-entanglement
 cover: 
 domain: quantumlearnings.ai
-saveAsDraft: false
+saveAsDraft: true
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Let us start with a simple question: What is Quantum Computing?
 
-Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+Quantum Computing is the study of how to use quantum mechanics to do computation.
+But what is quantum mechanics? And what does it have to do with computation?
+
+# What is Mechanics?
+It is the branch of physics that tells you what will happen to a body when you apply a force to it. It is the study of motion and the forces that cause motion.
+Remember Newton's laws of motion? They are the foundation of classical mechanics.
+We can use Newton's laws to predict the motion of a ball thrown in the air, or the motion of a rocket in space. We can also use Newton's laws to predict the motion of planets in the solar system.
+But Newton's laws fail to predict the motion of very small particles like electrons, protons, neutrons, etc. This is where Quantum Mechanics comes into play.
+
+# What is Quantum Mechanics?
+Quantum Mechanics is the branch of physics that tells you what will happen to a particle when you apply a force to it. It is the study of motion and the forces that cause motion of very small particles like electrons, protons, neutrons, etc.
+
+
+# What's the relation between Quantum Mechanics and Quantum Computing?
+
