@@ -34,7 +34,7 @@ tags: reactjs, css, python, nodejs
 # - The publication domain name that you want to publish the post to. 
 #   This should be a valid domain name only.
 # - You should be an ADMIN of the publication to publish.
-domain: example.hashnode.dev
+domain: quantumlearnings.ai
 
 # Subtitle of the post
 # String | Optional
